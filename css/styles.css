@@ -12,6 +12,9 @@ body{margin: 0; background-color: #fbfbfd; font-family:"NBG"; font-weight: 100;}
 @font-face{ src: url("../assets/font/SF-Pro-Display-Medium.otf") format('truetype'); font-family: "SF-D5"; font-weight:500; }
 @font-face{ src: url("../assets/font/SF-Pro-Display-Semibold.otf") format('truetype'); font-family: "SF-D6"; font-weight:600; }
 @font-face{ src: url("../assets/font/SF-Pro-Display-Bold.otf") format('truetype'); font-family: "SF-D7"; font-weight:700; }
+.main-textarea{
+	padding-top: 50px;
+}
 .unit1-image{
 	background-image: url("../assets/Content1-img.png");
 	background-size: 600px;
