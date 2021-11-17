@@ -13,6 +13,7 @@ body{margin: 0; background-color: #fbfbfd; font-family:"NBG"; font-weight: 100;}
 @font-face{ src: url("../assets/font/SF-Pro-Display-Semibold.otf") format('truetype'); font-family: "SF-D6"; font-weight:600; }
 @font-face{ src: url("../assets/font/SF-Pro-Display-Bold.otf") format('truetype'); font-family: "SF-D7"; font-weight:700; }
 .main-textarea{
+	line-height: 130%;
 	padding-top: 50px;
 }
 .unit1-image{
